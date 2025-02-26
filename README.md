@@ -10,7 +10,7 @@ This is a mvn project example with following configuration:
 
 ##### Windows
 ```
-$ git clone https://github.com/VMarisevs/mvn-dynamic-web-app-template.git your-project-folder
+$ git clone https://github.com/nileshlip/mvn-dynamic-web-app-template.git your-project-folder
 $ cd your-project-folder
 $ rd .git /S/Q
 ```
@@ -18,7 +18,7 @@ $ rd .git /S/Q
 
 ##### Linux
 ```
-$ git clone https://github.com/VMarisevs/mvn-dynamic-web-app-template.git your-project-folder
+$ git clone https://github.com/nileshlip/mvn-dynamic-web-app-template.git your-project-folder
 $ cd your-project-folder
 $ rm -rf .git
 ```
